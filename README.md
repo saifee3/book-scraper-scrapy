@@ -1,6 +1,5 @@
 # 📚 Book Scraper using Scrapy
 ![image](https://github.com/user-attachments/assets/1677293a-9b6b-4b4c-872b-c66008442f34)
-Credits: Banner Image by Real Python on https://realpython.com/web-scraping-with-scrapy-and-mongodb/
 
 ![Scrapy](https://img.shields.io/badge/Scrapy-2.11%2B-blue?logo=scrapy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green?logo=python)
@@ -201,4 +200,4 @@ FEED_URI = 'output.xml'
 - **[Python](https://www.python.org/)** - The programming language powering this scraper.  
 - **[Real Python](https://realpython.com/web-scraping-with-scrapy-and-mongodb/)** - Banner image sourced from their tutorial.  
 - **[Books.toscrape.com](https://books.toscrape.com/)** - The test website used for data extraction.  
-- Banner Image by **Real Python** on scrapingbee.com https://www.scrapingbee.com/blog/selenium-python/
+- Banner Image by **Real Python** on https://realpython.com/web-scraping-with-scrapy-and-mongodb/
