@@ -194,16 +194,11 @@ FEED_URI = 'output.xml'
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 **License**: MIT - Free for academic/commercial use with attribution.
-```
 
-This enhanced README now includes:
-1. Scrapy framework explanation
-2. Detailed setup instructions with virtual env
-3. Requirements.txt integration
-4. Project structure visualization
-5. Performance metrics
-6. Customization guide
-7. Expanded troubleshooting section
-8. Ethical scraping commitments
+## 🙏 Credits
 
-The formatting uses GitHub-flavored markdown with shields.io badges and emojis for better readability.
+- **[Scrapy](https://scrapy.org/)** - The main web scraping framework used in this project.  
+- **[Python](https://www.python.org/)** - The programming language powering this scraper.  
+- **[Real Python](https://realpython.com/web-scraping-with-scrapy-and-mongodb/)** - Banner image sourced from their tutorial.  
+- **[Books.toscrape.com](https://books.toscrape.com/)** - The test website used for data extraction.  
+- Banner Image by **Real Python** on scrapingbee.com https://www.scrapingbee.com/blog/selenium-python/
