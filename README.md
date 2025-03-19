@@ -1,5 +1,6 @@
 # 📚 Book Scraper using Scrapy
-![image](https://github.com/user-attachments/assets/1677293a-9b6b-4b4c-872b-c66008442f34)
+<img src="https://github.com/user-attachments/assets/1677293a-9b6b-4b4c-872b-c66008442f34" alt="Custom Icon" width="1050" height="250">
+
 ![Scrapy](https://img.shields.io/badge/Scrapy-2.11%2B-blue?logo=scrapy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green?logo=python)
 ![Data](https://img.shields.io/badge/Data-1000%2B%20books-yellow)
